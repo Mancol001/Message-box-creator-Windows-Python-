@@ -1,9 +1,15 @@
-### Tkinter Message Box
-# Tkinter
-Tkinter is a python module that can be used for making windows with python.
-# Tkinter TTK
-The ttk part of tkinter is for the parts of the window. Including: Label, Button, and more!
-# Tkinter MessageBox
-The messagebox of tkinter is to make popups that look like the error messages you sometimes get on windows.
+### Welcome!
 
-## Now you should know how the code works! :thumbsup:
+# Thanks for downloading or what ever
+
+# Made with Python !1!!1!1
+
+# working with windows 10 & 11
+
+# pls star it bc i took 1h to makeee
+
+# long code
+
+thanksss!
+
+![Alt text](https://example.com/path/to/image.png)
